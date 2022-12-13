@@ -65,7 +65,7 @@ O que vem por ai 👇🏾:
 	<p>
 Contatos:
 <p>
-<a href=https://www.linkedin.com/in/backendoliveira/><img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white></a> <a href="mailto:backend.oliveira@gmail.com?subject=Olá, vi seu perfil no Github!"><img src= https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white></a>
+<a href=https://www.linkedin.com/in/backendoliveira/><img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white></a> <a href="mailto:backend.oliveira@gmail.com?&subject=Ol%C3%A1,%20vi%20seu%20perfil%20no%20Github!&body="><img src= https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white></a>
 	
 	
 </p>
