@@ -10,7 +10,6 @@
 <h3>
   Sobre mim:
   </h3>
-  <font-size = "-1">
 <p>
   • 📋 Nome: Gabriel Oliveira
   </p>
