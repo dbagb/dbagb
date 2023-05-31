@@ -17,13 +17,14 @@
 
   Em atual desenvolvimento tenho um projeto utilizando SQL e Microsoft SQL Server baseado em uma oficina de pequeno porte, desenvolvendo a análise de requisitos e modelos conceituais,
   lógicos e físicos do banco de dados.
-
-  Acompanhe o projeto aqui: LINK DO PROJETO
+	  
+  Acompanhe o projeto aqui: [Projeto Oficina SQL](https://github.com/dbagb/Projeto_Oficina_SQL)
     </p>
   <p> 
   • 📊 Em conjunto dos estudos de banco de dados, também utilizo a ferramente Power BI para a criação de Dashboards, visualização e estudos dos dados armazenados no banco.
-
-  Projetos: Em breve...
+<br>
+	  <br>
+	  Projetos: <small><i>Em breve...</i></small>
    </p>
   <p>
     • 🎓 Cursando: Análise e Desenvolvimento de Sistemas - 6º Período
@@ -47,6 +48,8 @@ Durante a rotina de estudos, me dediquei a conhecer e aprender mais sobre as seg
 </p>
 <p>
 📰 Artigos desenvolvidos para estudo
+	
+<br>
 <br>
 	<small><i>Em desenvolvimento...<i/></small>
 </p>
